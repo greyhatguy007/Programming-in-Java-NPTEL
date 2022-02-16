@@ -16,3 +16,8 @@
 
   - [Quiz](https://github.com/greyhatguy007/Programming-in-Java-NPTEL/tree/main/Week3-Quiz) <br/>
   - [Programming Assignments](https://github.com/greyhatguy007/Programming-in-Java-NPTEL/tree/main/Week3-Programming-Assignments) <br/>
+
+- ### Week 4
+
+  - [Quiz](https://github.com/greyhatguy007/Programming-in-Java-NPTEL/tree/main/Week4-Quiz) <br/>
+  - [Programming Assignments](https://github.com/greyhatguy007/Programming-in-Java-NPTEL/tree/main/Week4-Programming-Assignments) <br/>
